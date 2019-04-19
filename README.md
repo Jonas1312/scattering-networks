@@ -12,4 +12,4 @@ Scattering transforms build invariant, stable and informative representations th
 
 Source: https://www.di.ens.fr/data/scattering/image/
 
-<img src="http://4.bp.blogspot.com/-A-73yVvYijQ/VT5d-ztqfdI/AAAAAAAAAJY/_nZht5MACkg/s1600/network.png" alt="Scattering transform" width="350"/>
+<img src="http://4.bp.blogspot.com/-A-73yVvYijQ/VT5d-ztqfdI/AAAAAAAAAJY/_nZht5MACkg/s1600/network.png" alt="Scattering transform" width="600"/>
